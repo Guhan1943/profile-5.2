@@ -1,0 +1,17 @@
+.container{
+    background-color: darkgrey;
+    width:50%;
+    height: 400px;
+
+    position: relative;
+    top: 100px;
+    left: 300px;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.name{
+    font-size: 30px;
+}
